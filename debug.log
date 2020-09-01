@@ -1,0 +1,9 @@
+[0830/210728.282:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
+[0830/233448.156:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0830/233448.164:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0830/233448.164:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0830/233448.171:ERROR:exception_snapshot_win.cc(98)] thread ID 40344 not found in process
+[0830/233448.172:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0830/233448.195:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0830/233448.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0830/233448.195:ERROR:exception_snapshot_win.cc(98)] thread ID 36604 not found in process
